@@ -1,2 +1,0 @@
-package Praktikum8;
-
