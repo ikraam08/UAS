@@ -6,7 +6,7 @@ Nama   : Ikram Ramadhan
 Nim    : 312110478
 Matkul : Pemrograman Orientasi Objek
 ````
-
+* ![img 1](photo/diagram.png)
 
 ### 1. File Customer.java
 * *CODINGAN FILE 1
