@@ -455,14 +455,13 @@ public class Main {
 
 ```
 
-[https://youtu.be/1N_JL3kMtag]
-[img][def]
+https://youtu.be/1N_JL3kMtag
 
-[def]: Photo/ss1.png
-[def]: Photo/Credit1.png
-[def]: Photo/Credit2.png
-[def]: Photo/credit3.png
-[def]: Photo/Check1.png
-[def]: Photo/Check2.png
-[def]: Photo/Check3.png
-[def]: Photo/Check4.png
+* ![img 1](photo/ss1.png)
+* ![img 1](photo/Credit1.png)
+* ![img 1](photo/Credit2.png)
+* ![img 1](photo/credit3.png)
+* ![img 1](photo/Check1.png)
+* ![img 1](photo/Check2.png)
+* ![img 1](photo/Check3.png)
+* ![img 1](photo/Check4.png)
