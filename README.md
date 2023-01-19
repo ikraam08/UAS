@@ -6,6 +6,10 @@ Nama   : Ikram Ramadhan
 Nim    : 312110478
 Matkul : Pemrograman Orientasi Objek
 ````
+*******
+* * ! [youtube link]  https://youtu.be/1N_JL3kMtag
+********
+*
 * ![img 1](photo/diagram.png)
 
 ### 1. File Customer.java
@@ -454,9 +458,7 @@ public class Main {
 
 
 ```
-*******
-* * ! [youtube link]  https://youtu.be/1N_JL3kMtag
-********
+
 
 * ![img 1](photo/ss1.png)
 * ![img 1](photo/Credit1.png)
